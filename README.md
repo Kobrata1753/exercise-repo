@@ -1,2 +1,2 @@
 # exercise-repo
-homework
+homework day
